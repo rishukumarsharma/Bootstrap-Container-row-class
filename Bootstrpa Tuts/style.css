@@ -1,0 +1,7 @@
+.container-fluid{
+    border: 2px solid green;
+    color: red;
+}
+.col{
+    border: 1px solid red;
+}
